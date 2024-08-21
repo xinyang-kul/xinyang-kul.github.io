@@ -1,25 +1,24 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: BIO.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Gent 9000, Belgium</p>
+    <p>xin.yang[at]kuleuven.be</p>
 
 news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hello! I'm a PhD student in the Department of Mechanical Engineering and the Division of Mechatronic System Dynamics (LMSD) at KU Leuven, under the supervision of [Prof. Dimitrios Chronopoulos](https://www.kuleuven.be/wieiswie/en/person/00144410). Prior to this, I graduated with a Master's degree from the School of Automotive Studies at [Tongji University](https://autoen.tongji.edu.cn/) in 2022. I received my Bachelor's degree in Vehicle Engineering, with the honor of Excellent Graduate, from [Chongqing University](https://mve.cqu.edu.cn/jxyyzgcywb/Home.htm) in 2019.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research interests are anomaly detection, fault diagnosis, and predictive maintenance, with an emphasis on aircraft composite wings and wind turbines. Recently, I have become interested in multisensory and multimodal data fusion, utilizing sensing techniques such as laser Doppler vibrometer, high-speed/thermal cameras, and acoustic emission. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+If you’re interested in collaborating, please feel free to contact me and I’d be happy to discuss potential opportunities!
