@@ -2,10 +2,10 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: 
 
 profile:
-  align: right
+  align: left
   image: BIO.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
