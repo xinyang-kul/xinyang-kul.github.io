@@ -3,7 +3,7 @@ layout: about
 title: About
 permalink: /
 subtitle: >
-  <strong>PhD Student @ Katholieke Universiteit Leuven
+  <strong>PhD Student @ KU Leuven
 
 profile:
   align: left
