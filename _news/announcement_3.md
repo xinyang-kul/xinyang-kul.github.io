@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Excited to share! My first-author paper "[A decision-level sensor fusion scheme integrating ultrasonic guided wave and vibration measurements for damage identification](https://doi.org/10.1016/j.ymssp.2024.111597)" was accepted for publication in Mechanical Systems and Signal Processing!! :sparkles: :smile:
+Excited to share! My first-author paper "<strong>[A decision-level sensor fusion scheme integrating ultrasonic guided wave and vibration measurements for damage identification](https://doi.org/10.1016/j.ymssp.2024.111597)</strong>" was accepted for publication in Mechanical Systems and Signal Processing!! :sparkles: :smile:
