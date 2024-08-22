@@ -3,7 +3,7 @@ layout: about
 title: About
 permalink: /
 subtitle: >
-  <strong>PhD Student in <a href="https://www.mech.kuleuven.be/en/mod">LMSD Research Group</a>
+  <strong>PhD Student in <a href="https://www.mech.kuleuven.be/en/mod">LMSD Research Group</a> <br>
   <a href="https://www.kuleuven.be/kuleuven">KU Leuven</a> <small>Katholieke Universiteit Leuven</small>
 
 profile:
