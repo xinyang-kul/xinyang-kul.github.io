@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-New paper alert! Our paper “Transfer learning-based Gaussian process classification for lattice structure damage detection” was accepted by Measurement. [Meas.](https://doi.org/10.1016/j.measurement.2024.115387)
+New paper alert! Our paper “[Transfer learning-based Gaussian process classification for lattice structure damage detection](https://doi.org/10.1016/j.measurement.2024.115387)” was accepted by Measurement.
