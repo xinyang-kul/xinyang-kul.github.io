@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2024-06-01 07:59:00-0400
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+Excited to share! My first-author paper "[A decision-level sensor fusion scheme integrating ultrasonic guided wave and vibration measurements for damage identification](https://doi.org/10.1016/j.ymssp.2024.111597)" was accepted for publication in Mechanical Systems and Signal Processing!! :sparkles: :smile:
