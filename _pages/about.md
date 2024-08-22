@@ -8,7 +8,7 @@ subtitle: >
 profile:
   align: left
   image: BIO.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
     <p>Gent 9000, Belgium</p>
     <p>xin.yang[at]kuleuven.be</p>
