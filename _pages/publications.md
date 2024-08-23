@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: Publications
-description: Publications about some works that I have done or collaborated with. You can download the documents to read them in full..
+description: An up-to-date list is available on [Google Scholar](https://scholar.google.com/citations?user=Jp41q6AAAAAJ&hl=zh-CN).
 nav: true
 nav_order: 1
 ---
