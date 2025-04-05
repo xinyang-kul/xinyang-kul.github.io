@@ -17,6 +17,11 @@ profile:
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
+
+announcements:
+  enabled: true # includes a list of news items
+  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
+  limit: 5 # leave blank to include all the news in the `_news` folder
 ---
 
 Hello! I'm a PhD student in the Department of Mechanical Engineering and the Division of Mechatronic System Dynamics ([LMSD](https://www.mech.kuleuven.be/en/mod)) at KU Leuven, under the supervision of [Prof. Dimitrios Chronopoulos](https://www.kuleuven.be/wieiswie/en/person/00144410) and [Prof. Pradeep Kundu](https://www.kuleuven.be/wieiswie/en/person/00155770). Before this, I graduated with a Master's degree from the School of Automotive Studies at [Tongji University](https://autoen.tongji.edu.cn/) in 2022. I received my Bachelor's degree in Vehicle Engineering, with the honor of Excellent Graduate, from [Chongqing University](https://mve.cqu.edu.cn/jxyyzgcywb/Home.htm) in 2019.
