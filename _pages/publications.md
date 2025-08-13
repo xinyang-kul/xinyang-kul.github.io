@@ -6,8 +6,6 @@ description: An up-to-date list is available on <a href="https://scholar.google.
 nav: true
 nav_order: 1
 ---
-{% assign sorted_papers = site.scholar.bibliographies.papers.entries | sort: 'year' | reverse %}
-{% assign page.years = sorted_papers | map: 'year' | uniq %}
 
 <!-- _pages/publications.md -->
 
@@ -17,17 +15,17 @@ nav_order: 1
 
 <div class="publications">
 
-<h2>Preprints</h2>
+<h1>Preprints</h1>
 
 {% bibliography -f preprints %}
 
-<h2>Conference &amp; Journal Articles</h2>
+<h1>Conference &amp; Journal Articles</h1>
 {% for y in page.years %}
-  <h3 class="year">{{y}}</h3>
+  <h2 class="year">{{y}}</h2>
   {% bibliography -f papers -q @*[year={{y}}]* %}
 {% endfor %}
 
-<h2>Technical Reports &amp; Short Papers</h2>
+<h1>Technical Reports &amp; Short Papers</h1>
 
 {% bibliography -f reports %}
 
