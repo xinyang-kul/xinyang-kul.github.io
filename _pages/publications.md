@@ -6,6 +6,8 @@ description: An up-to-date list is available on <a href="https://scholar.google.
 nav: true
 nav_order: 1
 ---
+{% assign sorted_papers = site.scholar.bibliographies.papers.entries | sort: 'year' | reverse %}
+{% assign page.years = sorted_papers | map: 'year' | uniq %}
 
 <!-- _pages/publications.md -->
 
