@@ -15,18 +15,17 @@ nav_order: 1
 
 <div class="publications">
 
-<h1>preprints</h1>
+<h2>Preprints</h2>
 
 {% bibliography -f preprints %}
 
-<h1>conference &amp; journal articles</h1>
-
+<h2>Conference &amp; Journal Articles</h2>
 {% for y in page.years %}
-  <h2 class="year">{{y}}</h2>
+  <h3 class="year">{{y}}</h3>
   {% bibliography -f papers -q @*[year={{y}}]* %}
 {% endfor %}
 
-<h1>technical reports &amp; short papers</h1>
+<h2>Technical Reports &amp; Short Papers</h2>
 
 {% bibliography -f reports %}
 
