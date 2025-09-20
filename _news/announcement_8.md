@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Excited to share that my first-authored paper “<strong>[Damage imaging in structural health monitoring with fine-tuned conditional diffusion model](https://doi.org/10.1016/j.ymssp.2025.112996)</strong>” has been accepted by Mechanical Systems and Signal Processing!🎉🎉 
+New! Excited to share that my first-authored paper “<strong>[Damage imaging in structural health monitoring with fine-tuned conditional diffusion model](https://doi.org/10.1016/j.ymssp.2025.112996)</strong>” has been accepted by Mechanical Systems and Signal Processing!🎉🎉 
