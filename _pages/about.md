@@ -7,7 +7,7 @@ subtitle: >
 
 profile:
   align: left
-  image: BIO.jpg
+  image: weichat-photo - Copy.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>KU Leuven Campus Rabot</p>
