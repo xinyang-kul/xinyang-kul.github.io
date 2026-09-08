@@ -3,16 +3,18 @@ layout: about
 title: About
 permalink: /
 subtitle: >
-  <strong>PhD Candidate @ KU Leuven
+  <strong>Postdoctoral Researcher @ Delft University of Technology (TU Delft)
 
 profile:
   align: left
   image: weichat-photo - Copy.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>KU Leuven Campus Rabot</p>
-    <p>Gent 9000, Belgium</p>
-    <p>xin.yang[at]kuleuven.be</p>
+    <p>Department of Aerospace Structures and Materials (ASM)
+    <p>Faculty of Aerospace Engineering, TU Delft
+    <p>Building 61 NB 1.29, Kluyverweg 1</p>
+    <p>2629 HS Delft, Netherlands</p>
+    <p>X.Yang-6[at]tudelft.nl</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
