@@ -23,7 +23,7 @@ social: true # includes social icons at the bottom of the page
 announcements:
   enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  limit: 4 # leave blank to include all the news in the `_news` folder
 ---
 
 As a Postdoctoral Researcher at [the Faculty of Aerospace Engineering, TU Delft](https://www.tudelft.nl/lr), I work on the PolyMIND project, focusing on AI-enabled multisensor data fusion for polymer bearing cage health monitoring. In collaboration with DPI, SKF, and TKI GCC, I develop online non-destructive testing and intelligent monitoring methods for rotating machinery, with the aim of improving system reliability and predictive maintenance.
