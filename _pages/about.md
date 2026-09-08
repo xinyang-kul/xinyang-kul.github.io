@@ -12,7 +12,6 @@ profile:
   more_info: >
     <p>Department of Aerospace Structures and Materials (ASM)</p>
     <p>Faculty of Aerospace Engineering, TU Delft</p>
-    <p>Building 61 NB 1.29, Kluyverweg 1</p>
     <p>2629 HS Delft, Netherlands</p>
     <p>X.Yang-6[at]tudelft.nl</p>
 
