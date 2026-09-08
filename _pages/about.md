@@ -7,7 +7,7 @@ subtitle: >
 
 profile:
   align: left
-  image: weichat-photo - Copy.jpg
+  image: weichat-photo.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Department of Aerospace Structures and Materials (ASM)</p>
