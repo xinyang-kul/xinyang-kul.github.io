@@ -11,7 +11,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Department of Aerospace Structures and Materials (ASM)</p>
-    <p>Faculty of Aerospace Engineering, TU Delft</p>
+    <p>Aerospace Engineering Faculty, TU Delft</p>
     <p>2629 HS Delft, Netherlands</p>
     <p>X.Yang-6[at]tudelft.nl</p>
 
